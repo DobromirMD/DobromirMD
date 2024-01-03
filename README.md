@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Dobromir
 
 ## About Me
-- Currently learning Python Web Development at SoftUni <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python
-- 💡I like physics🌌, biology🧬, and computer hardware 💻
+- 💻Currently learning Python Web Development at SoftUni🕸️
+- 💡I like physics🌌, biology🧬, and computer hardware 🖥️
 
 ## Languages and Tools
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
