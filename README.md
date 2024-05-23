@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Dobromir
 
 ## About Me
-- 💻Currently learning Python Web Development at SoftUni🕸️
+- 💻Currently learning Java & Web Development🕸️
 - 💡I like physics🌌, biology🧬, and computer hardware 🖥️
 
 ## Languages and Tools
