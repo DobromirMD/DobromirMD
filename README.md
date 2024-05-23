@@ -6,7 +6,7 @@
 
 ## Languages and Tools
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img align="left" width="20" height="20" src="https://img.icons8.com/?size=256&id=Pd2x9GWu9ovX&format=png" alt="python--v1"/>
+<img align="left" width="20" height="20" src="https://img.icons8.com/?size=256&id=13679&format=png" alt="python--v1"/>
 
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
