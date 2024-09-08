@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Dobromir
+# Hello! I'm Dobromir
 ## About Me
 - 💻Currently learning Java & Web Development🕸️
 - 💡I like physics🌌, biology🧬, and computer hardware 🖥️
