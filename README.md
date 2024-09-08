@@ -16,6 +16,7 @@
 <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/>
 <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"/>
 
+<br/>
 ## Connect
   <p>
   <a href="https://www.linkedin.com/in/dobromir-danchev-31a51825b/" target="_blank"><img align="center"
