@@ -1,7 +1,7 @@
 # Hello! I'm Dobromir
 
 ## About Me
--  Currently learning **Java** & **Web Development** 🕸️
+-  Currently learning **Java** & **Web Development**
 -  I like **Physics** , **Biology** , and **Computer Hardware** 
 
 ## Languages and Tools
