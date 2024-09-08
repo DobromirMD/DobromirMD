@@ -1,5 +1,10 @@
 # Hello! I'm Dobromir
 
+## About Me
+- 💻Currently learning Java & Web Development🕸️
+- 💡I like physics🌌, biology🧬, and computer hardware 🖥️
+<br/>
+
 ## Languages and Tools
 <img align="left" width="25" height="25" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img align="left" width="25" height="25" src="https://img.icons8.com/?size=256&id=13679&format=png" alt="python--v1"/>
@@ -11,10 +16,7 @@
 <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/>
 <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"/>
 
-## About Me
-- 💻Currently learning Java & Web Development🕸️
-- 💡I like physics🌌, biology🧬, and computer hardware 🖥️
-<br/>
+
 
 ## Connect
   <p>
